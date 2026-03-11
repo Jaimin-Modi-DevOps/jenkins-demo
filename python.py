@@ -1,1 +1,1 @@
-print("Hello Jenkins from GIT")
+print("Hello Jenkins from GITHUB")
